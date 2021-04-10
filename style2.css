@@ -1,0 +1,16 @@
+body{
+    background: rgb(168, 122, 122);
+    /*#A87A7A;*/  
+}
+
+table{
+    border: 1 solid black;
+    border-collapse: collapse;
+    width: 1280px;
+    height: 720px;
+    background-color: #FFFFFF;
+}
+
+.had{
+    background-color: ;
+}
